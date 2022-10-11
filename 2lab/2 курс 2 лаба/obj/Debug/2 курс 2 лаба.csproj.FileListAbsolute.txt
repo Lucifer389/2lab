@@ -1,0 +1,13 @@
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\2 курс 2 лаба.csproj.AssemblyReference.cache
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\2 курс 2 лаба.csproj.SuggestedBindingRedirects.cache
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\_2_курс_2_лаба.iF.resources
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\_2_курс_2_лаба.main.resources
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\_2_курс_2_лаба.Properties.Resources.resources
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\_2_курс_2_лаба.str.resources
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\2 курс 2 лаба.csproj.GenerateResource.cache
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\2 курс 2 лаба.csproj.CoreCompileInputs.cache
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\bin\Debug\2 курс 2 лаба.exe.config
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\bin\Debug\2 курс 2 лаба.exe
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\bin\Debug\2 курс 2 лаба.pdb
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\2 курс 2 лаба.exe
+C:\Users\Я Никитосик\Desktop\visual\2 курс 2 лаба\2 курс 2 лаба\obj\Debug\2 курс 2 лаба.pdb
